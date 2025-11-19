@@ -24,24 +24,43 @@ Fechas importantes: fecha de diagnóstico y fecha de fin del tratamiento.
 ## Diccionario del Dataset
 
 - Variables Numéricas:
-  ID, Age, Pack_Years.
+  id: Identificador único del paciente.
+  age: Edad del paciente.
+  pack_years: Años-fumador acumulados.
+
   
 - Variables Categóricas:
-  Gender, Country, Cancer_Stage (ordinal), Family_History (Binaria), Smoking_Story, Treatment_type.
+  
+  gender: Género del paciente.
+  country: País de origen del paciente.
+  cancer_stage (ordinal): Etapa del cáncer (I, II, III, IV).
+  family_history (binaria): Antecedentes familiares de cáncer (Sí/No).
+  smoking_history: Historial de tabaquismo.
+  treatment_type: Tipo principal de tratamiento recibido.
   
 - Variables Binarias:
-  Copd, Pneumonia, Diabetes, Heart_Disease, Stroke, Liver_Disease, Kidney_Disease, Other_Cancer, Survived.
+  
+  copd: Presencia de enfermedad pulmonar obstructiva crónica.
+  pneumonia: Antecedentes de neumonía.
+  diabetes: Diagnóstico de diabetes.
+  heart_disease: Presencia de enfermedad cardíaca.
+  stroke: Antecedente de accidente cerebrovascular.
+  liver_disease: Enfermedad hepática.
+  kidney_disease: Enfermedad renal.
+  other_cancer: Presencia de otros cánceres previos.
+  survived: Estado final del paciente.
   
 - Variables Tipo Fecha:
-  Diagnosis_Date, End_Treatment_Date. 
+  
+  diagnosis_date: Fecha del diagnóstico de cáncer de pulmón.
+  end_treatment_date: Fecha de finalización del tratamiento.
   
   
 
 
 
+## Intruciones de cómo ejecutar
 
-
-## Cómo ejecutar
 1. Activar entorno virtual: `source .venv/Scripts/activate`
 2. Instalar dependencias: `pip install -r requirements.txt`
 
