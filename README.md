@@ -25,7 +25,22 @@ Variables numéricas discretas: presencia o ausencia de enfermedades.
 
 Fechas importantes: fecha de diagnóstico y fecha de fin del tratamiento.
 
+
 ## Diccionario del Dataset
+
+- Variables Numéricas:
+  ID, Age, Pack_Years.
+  
+- Variables Categóricas:
+  Gender, Country, Cancer_Stage (ordinal), Family_History (Binaria), Smoking_Story, Treatment_type.
+  
+- Variables Binarias:
+  Copd, Pneumonia, Diabetes, Heart_Disease, Stroke, Liver_Disease, Kidney_Disease, Other_Cancer, Survived.
+  
+- Variables Tipo Fecha:
+  Diagnosis_Date, End_Treatment_Date. 
+  
+  
 
 
 
@@ -34,3 +49,7 @@ Fechas importantes: fecha de diagnóstico y fecha de fin del tratamiento.
 ## Cómo ejecutar
 1. Activar entorno virtual: `source .venv/Scripts/activate`
 2. Instalar dependencias: `pip install -r requirements.txt`
+
+
+## Conclusiones
+
