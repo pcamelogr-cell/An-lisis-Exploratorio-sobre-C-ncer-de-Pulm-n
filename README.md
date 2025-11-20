@@ -8,6 +8,7 @@ Al analizar estos datos, estamos aportando a la comprensión de una de las enfer
 
 ## Integrantes
 - Paula Camelo - Lider de Proyecto
+-Isabella Calderón Pensamiento
 
 
 ## Estructura del Dataset
