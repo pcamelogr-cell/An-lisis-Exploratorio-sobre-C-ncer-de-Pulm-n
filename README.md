@@ -1,6 +1,6 @@
 # Analisis Exploratorio sobre Cancer de Pulmon
 
-Este proyecto forma parte del curso Programación II, grupo G-IV. En este proyecto analizaremos 800.000 historias reales de personas diagnosticadas con cáncer de pulmón, con el objetivo de comprender patrones de supervivencia y los factores que influyen en la mortalidad. Utilizaremos herramientas de estadística descriptiva, manejo de datos y visualización para realizar un análisis completo de esta enfermedad que afecta a millones de familias en todo el mundo.
+Este proyecto forma parte del curso Programación II, grupo G-VI. En este proyecto analizaremos 800.000 historias reales de personas diagnosticadas con cáncer de pulmón, con el objetivo de comprender patrones de supervivencia y los factores que influyen en la mortalidad. Utilizaremos herramientas de estadística descriptiva, manejo de datos y visualización para realizar un análisis completo de esta enfermedad que afecta a millones de familias en todo el mundo.
 
 Trabajaremos con Python (Pandas) y emplearemos GitHub para la colaboración entre los integrantes del proyecto.
 
