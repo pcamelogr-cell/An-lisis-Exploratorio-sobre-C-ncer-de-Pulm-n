@@ -59,13 +59,6 @@ Fechas importantes: fecha de diagnóstico y fecha de fin del tratamiento.
   
   
 
-
-
-## Intruciones de cómo ejecutar
-
-1. Activar entorno virtual: `source .venv/Scripts/activate`
-2. Instalar dependencias: `pip install -r requirements.txt`
-
-
 ## Conclusiones
 
+- En este conjunto de datos, la Cirugía ofrece las mejores probabilidades de supervivencia al paciente, cuenta con un porcentaje (22,15%) de supervivencia, mientras que la Quimioterapia ofrece los peoress resultados con una tasa de muertes del (78.13%), aunque la diferencia entre unos metodos y los otros no es mucha, cuando hablamos de vidas humanas son porcentajes valiosos asi que resaltamos la importancia de aplicar enfoques que incluyan el procedimiento quirúrgico.
