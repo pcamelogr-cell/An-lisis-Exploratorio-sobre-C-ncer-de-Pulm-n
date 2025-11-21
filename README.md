@@ -67,3 +67,6 @@ Fechas importantes: fecha de diagnóstico y fecha de fin del tratamiento.
 
 - Una observación importante es que aunque los adultos mayores nunca hayan fumado, su edad los hace mas propensos al desarrollo de cáncer de pulmón. Esto puede deberse a que, con el paso de los años pueden adquirir diversas enfermedades, lo cual debilita sus cuerpos o el estilo de vida que llevaron en su juventud, es decir sean ex fumadores o no , los adultos mayores son mucho mas propensos a desarrollar cancer de pulmon que un joven adicto al cigarrillo, por lo que la edad se vuelve un factor importante en el desarrollo y la  vulnerabilidad de esta enfermedad.
 
+- Determinamos que los pacientes de mayor riesgo son, en su mayoría, personas mayores de 70 años, con dos o más enfermedades adicionales y con un cáncer en etapa IV. También vimos algunos casos de pacientes jóvenes (menores de 40) que ya presentaban cáncer avanzado, así como pacientes con antecedentes familiares y hábitos como fumar indican que tanto la genética como el estilo de vida influyen de manera importante en la supervivencia.
+
+
