@@ -69,4 +69,5 @@ Fechas importantes: fecha de diagnóstico y fecha de fin del tratamiento.
 
 - Determinamos que los pacientes de mayor riesgo son, en su mayoría, personas mayores de 70 años, con dos o más enfermedades adicionales y con un cáncer en etapa IV. También vimos algunos casos de pacientes jóvenes (menores de 40) que ya presentaban cáncer avanzado, así como pacientes con antecedentes familiares y hábitos como fumar indican que tanto la genética como el estilo de vida influyen de manera importante en la supervivencia.
 
+- La base de datos muestra que la supervivencia es extremadamente baja y está determinada principalmente por la etapa del cáncer al ser detectado. Los tratamientos con cirugía muestran mejores resultados porque se aplican en fases tempranas. Se identifican dos grupos críticos: jóvenes con cáncer avanzado y pacientes con una combinación de historial familiar y tabaquismo, lo que muestra la urgencia de mejorar la detección temprana. La clave para que haya una menor taza de mortalidad es diagnosticar a tiempo y manejar las condiciones de alto riesgo del paciente, como la edad y las comorbilidades.
 
