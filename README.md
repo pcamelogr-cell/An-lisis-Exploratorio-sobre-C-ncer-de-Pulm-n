@@ -10,7 +10,7 @@ Al analizar estos datos, estamos aportando a la comprensión de una de las enfer
 - Paula Camelo - Lider de Proyecto
 - Isabella Calderón Pensamiento
 - Laura Valentina Franco Guarumo
-
+- Harold Andres Burgos Muñoz
 
 
 ## Estructura del Dataset
