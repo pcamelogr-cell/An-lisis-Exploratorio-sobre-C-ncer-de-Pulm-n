@@ -14,6 +14,8 @@ Al analizar estos datos, estamos aportando a la comprensión de una de las enfer
 
 
 ## Estructura del Dataset
+Este dataset fue sacado de kaggle, para claridad de alguna duda que surja con respecto a su procedencia , adjunto el link del dataset.
+https://www.kaggle.com/datasets/amankumar094/lung-cancer-dataset
 
 El conjunto de datos utilizado contiene 800.000 registros y 20 columnas, que incluyen información demográfica, clínica y de antecedentes médicos de pacientes diagnosticados con cáncer de pulmón. El dataset cuenta con: Variables categóricas: género, país, etapa del cáncer, historial familiar, tipo de tratamiento.
 
